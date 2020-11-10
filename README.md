@@ -1,1 +1,1 @@
-# EECS201012(014)-Cprogramming-a-research-assistant-2020
+# EECS201012(014)-C programming-ResearchAssistant-2020
